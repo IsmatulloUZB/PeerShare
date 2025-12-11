@@ -37,7 +37,7 @@ Qabul qiluvchi qurilmaga oldindan dasturni o'rnatish kerak emas.
 
 ⚠️**Diqqat!**
 <br>
-Bu uslub bilan fayl ulashganingizda siz biron papka katalogini ichidagi barcha fayllar bilan ulashasiz. Agar maxfiy ma'lumotlaringiz bo'lsa kerakli fayllarni alohida katalogga joylab qo'ying.
+Bu uslub bilan fayl ulashganingizda siz biron katalogning (papkaning) ichidagi barcha fayllar bilan ulashasiz. Agar maxfiy ma'lumotlaringiz bo'lsa kerakli fayllarni alohida katalogga joylab qo'ying.
 
 **WEB-Sharing** bo'limidan port kiriting (agar kiritmasangiz 8080 deb oladi) va **Choose Directory** tugmasidan katalogni tanlab oling. So'ngra **Start web sharing** tugmasini bosganingizdan keyin **Web server started! Your IP address: [...]** degan xabar chiqadi:
 <br>
