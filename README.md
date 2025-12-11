@@ -54,6 +54,7 @@ Barcha foydalanilgan rasmlar iconarchive.com saytidan olingan.
 
 "TIIAME" - Milliy tadqiqot universiteti, Ekologiya va huquq fakulteti, 2-kurs DI yo'nalishi talabalari:
 Nasrullayev Ismatullo
+<br>
 Turdaliyev Sherzod
 
 2025-2026 - o'quv yili.
