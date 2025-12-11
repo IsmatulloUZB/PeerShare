@@ -48,7 +48,7 @@ Ilova ko'rsatgan ip address va port orqali ushbu lokal tarmoqdagi barcha qurilma
 ## Litsenziyalar
 Ushbu dastur MIT litsenziyasi asosida github platformasiga joylangan.
 <br>
-Barcha foydalanilgan rasmlar iconarchive.com saytidan olingan.
+Barcha foydalanilgan rasmlar [iconarchive.com](https://www.iconarchive.com/) saytidan olingan.
 
 ## Loyiha-jamoasi
 
