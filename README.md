@@ -53,8 +53,9 @@ Barcha foydalanilgan rasmlar iconarchive.com saytidan olingan.
 ## Loyiha-jamoasi
 
 "TIIAME" - Milliy tadqiqot universiteti, Ekologiya va huquq fakulteti, 2-kurs DI yo'nalishi talabalari:
+<br>
 Nasrullayev Ismatullo
 <br>
 Turdaliyev Sherzod
-
+<br>
 2025-2026 - o'quv yili.
